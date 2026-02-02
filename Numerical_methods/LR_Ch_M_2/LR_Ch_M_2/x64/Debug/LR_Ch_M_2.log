@@ -1,0 +1,8 @@
+﻿  LR_Ch_M_2.cpp
+C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\LR_Ch_M_2\LR_Ch_M_2\LR_Ch_M_2.cpp(218,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\LR_Ch_M_2\LR_Ch_M_2\LR_Ch_M_2.cpp(226,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\LR_Ch_M_2\LR_Ch_M_2\LR_Ch_M_2.cpp(293,16): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\LR_Ch_M_2\LR_Ch_M_2\LR_Ch_M_2.cpp(319,15): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\LR_Ch_M_2\LR_Ch_M_2\LR_Ch_M_2.cpp(337,15): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\LR_Ch_M_2\LR_Ch_M_2\LR_Ch_M_2.cpp(357,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  LR_Ch_M_2.vcxproj -> C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\LR_Ch_M_2\x64\Debug\LR_Ch_M_2.exe

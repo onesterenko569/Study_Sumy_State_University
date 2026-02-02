@@ -1,0 +1,17 @@
+exp(a,b)
+begin
+int z;
+z=1;
+while b do
+if b%2 then z=z*a end;
+a=a*a;b=b/2
+end;
+return z
+end
+main()
+begin int x,y;
+read x;
+read y;
+print exp(x,y)
+end
+

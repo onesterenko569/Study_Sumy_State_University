@@ -1,0 +1,8 @@
+Cabernet Lviv 13.5 0.75 red
+Chardonnay Odesa 12.0 0.75 white
+Merlot Kyiv 14.0 1.0 red
+Riesling Lviv 11.5 0.5 white
+Sauvignon Lviv 12.5 0.75 white
+PinotNoir Odesa 13.0 0.75 red
+Zinfandel Kharkiv 14.5 1.0 red
+Muscat Uzhhorod 10.5 0.5 white

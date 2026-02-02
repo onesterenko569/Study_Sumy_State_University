@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Лабораторна_робота_№2.1_Нестеренко_Олександр", "Лабораторна_робота_№2.1_Нестеренко_Олександр\Лабораторна_робота_№2.1_Нестеренко_Олександр.vcxproj", "{F1E70497-B25F-4042-B4AB-AB101DE79594}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1E70497-B25F-4042-B4AB-AB101DE79594}.Debug|x64.ActiveCfg = Debug|x64
+		{F1E70497-B25F-4042-B4AB-AB101DE79594}.Debug|x64.Build.0 = Debug|x64
+		{F1E70497-B25F-4042-B4AB-AB101DE79594}.Debug|x86.ActiveCfg = Debug|Win32
+		{F1E70497-B25F-4042-B4AB-AB101DE79594}.Debug|x86.Build.0 = Debug|Win32
+		{F1E70497-B25F-4042-B4AB-AB101DE79594}.Release|x64.ActiveCfg = Release|x64
+		{F1E70497-B25F-4042-B4AB-AB101DE79594}.Release|x64.Build.0 = Release|x64
+		{F1E70497-B25F-4042-B4AB-AB101DE79594}.Release|x86.ActiveCfg = Release|Win32
+		{F1E70497-B25F-4042-B4AB-AB101DE79594}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4775F68-EACD-4CA2-9C2E-CAA1B3640950}
+	EndGlobalSection
+EndGlobal

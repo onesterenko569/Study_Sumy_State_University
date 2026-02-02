@@ -1,0 +1,26 @@
+﻿  Lr_9_Nesterenko.cpp
+C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Lr_9_Nesterenko\Lr_9_Nesterenko\Lr_9_Nesterenko.cpp(26,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+      C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Lr_9_Nesterenko\Lr_9_Nesterenko\Lr_9_Nesterenko.cpp(26,10):
+      рекомендуется использовать "%lld" в строке форматирования
+      C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Lr_9_Nesterenko\Lr_9_Nesterenko\Lr_9_Nesterenko.cpp(26,10):
+      рекомендуется использовать "%Id" в строке форматирования
+      C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Lr_9_Nesterenko\Lr_9_Nesterenko\Lr_9_Nesterenko.cpp(26,10):
+      рекомендуется использовать "%I64d" в строке форматирования
+  
+C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Lr_9_Nesterenko\Lr_9_Nesterenko\Lr_9_Nesterenko.cpp(32,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+      C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Lr_9_Nesterenko\Lr_9_Nesterenko\Lr_9_Nesterenko.cpp(32,10):
+      рекомендуется использовать "%lld" в строке форматирования
+      C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Lr_9_Nesterenko\Lr_9_Nesterenko\Lr_9_Nesterenko.cpp(32,10):
+      рекомендуется использовать "%Id" в строке форматирования
+      C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Lr_9_Nesterenko\Lr_9_Nesterenko\Lr_9_Nesterenko.cpp(32,10):
+      рекомендуется использовать "%I64d" в строке форматирования
+  
+C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Lr_9_Nesterenko\Lr_9_Nesterenko\Lr_9_Nesterenko.cpp(42,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+      C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Lr_9_Nesterenko\Lr_9_Nesterenko\Lr_9_Nesterenko.cpp(42,10):
+      рекомендуется использовать "%lld" в строке форматирования
+      C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Lr_9_Nesterenko\Lr_9_Nesterenko\Lr_9_Nesterenko.cpp(42,10):
+      рекомендуется использовать "%Id" в строке форматирования
+      C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Lr_9_Nesterenko\Lr_9_Nesterenko\Lr_9_Nesterenko.cpp(42,10):
+      рекомендуется использовать "%I64d" в строке форматирования
+  
+  Lr_9_Nesterenko.vcxproj -> C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Lr_9_Nesterenko\x64\Debug\Lr_9_Nesterenko.exe

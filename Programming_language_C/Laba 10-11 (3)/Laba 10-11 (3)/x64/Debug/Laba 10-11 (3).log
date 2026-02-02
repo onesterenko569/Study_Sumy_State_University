@@ -1,0 +1,6 @@
+﻿  Laba 10-11 (3).cpp
+C:\Users\final\Desktop\VisualStudio\Laba 10-11 (3)\Laba 10-11 (3)\Laba 10-11 (3).cpp(20,48): warning C4474: "printf" : для строки формата передано слишком много аргументов
+      C:\Users\final\Desktop\VisualStudio\Laba 10-11 (3)\Laba 10-11 (3)\Laba 10-11 (3).cpp(20,48):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+  
+  Laba 10-11 (3).vcxproj -> C:\Users\final\Desktop\VisualStudio\Laba 10-11 (3)\x64\Debug\Laba 10-11 (3).exe

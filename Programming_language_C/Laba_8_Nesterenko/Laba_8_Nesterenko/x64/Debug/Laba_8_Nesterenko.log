@@ -1,0 +1,18 @@
+﻿  Laba_8_Nesterenko.cpp
+C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Laba_8_Nesterenko\Laba_8_Nesterenko\Laba_8_Nesterenko.cpp(18,16): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+      C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Laba_8_Nesterenko\Laba_8_Nesterenko\Laba_8_Nesterenko.cpp(18,16):
+      рекомендуется использовать "%lld" в строке форматирования
+      C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Laba_8_Nesterenko\Laba_8_Nesterenko\Laba_8_Nesterenko.cpp(18,16):
+      рекомендуется использовать "%Id" в строке форматирования
+      C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Laba_8_Nesterenko\Laba_8_Nesterenko\Laba_8_Nesterenko.cpp(18,16):
+      рекомендуется использовать "%I64d" в строке форматирования
+  
+C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Laba_8_Nesterenko\Laba_8_Nesterenko\Laba_8_Nesterenko.cpp(47,16): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "__int64"
+      C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Laba_8_Nesterenko\Laba_8_Nesterenko\Laba_8_Nesterenko.cpp(47,16):
+      рекомендуется использовать "%lld" в строке форматирования
+      C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Laba_8_Nesterenko\Laba_8_Nesterenko\Laba_8_Nesterenko.cpp(47,16):
+      рекомендуется использовать "%Id" в строке форматирования
+      C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Laba_8_Nesterenko\Laba_8_Nesterenko\Laba_8_Nesterenko.cpp(47,16):
+      рекомендуется использовать "%I64d" в строке форматирования
+  
+  Laba_8_Nesterenko.vcxproj -> C:\Users\final\Desktop\СумДу\2 семестр\VisualStudio\Laba_8_Nesterenko\x64\Debug\Laba_8_Nesterenko.exe

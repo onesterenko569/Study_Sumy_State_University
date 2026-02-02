@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\final\\Desktop\\\u0421\u0443\u043C\u0414\u0443\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VisualStudio\\LR_17_Nesterenko\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{745A0C23-9AD4-4C9D-9A6D-F64F1F6CE90B}|LR_17_Nesterenko\\LR_17_Nesterenko.vcxproj|C:\\Users\\final\\Desktop\\\u0421\u0443\u043C\u0414\u0443\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VisualStudio\\LR_17_Nesterenko\\LR_17_Nesterenko\\LR_17_Nesterenko.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{745A0C23-9AD4-4C9D-9A6D-F64F1F6CE90B}|LR_17_Nesterenko\\LR_17_Nesterenko.vcxproj|solutionrelative:LR_17_Nesterenko\\LR_17_Nesterenko.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A0C23-9AD4-4C9D-9A6D-F64F1F6CE90B}|LR_17_Nesterenko\\LR_17_Nesterenko.vcxproj|C:\\Users\\final\\Desktop\\\u0421\u0443\u043C\u0414\u0443\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VisualStudio\\LR_17_Nesterenko\\LR_17_Nesterenko\\exit.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{745A0C23-9AD4-4C9D-9A6D-F64F1F6CE90B}|LR_17_Nesterenko\\LR_17_Nesterenko.vcxproj|solutionrelative:LR_17_Nesterenko\\exit.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745A0C23-9AD4-4C9D-9A6D-F64F1F6CE90B}|LR_17_Nesterenko\\LR_17_Nesterenko.vcxproj|C:\\Users\\final\\Desktop\\\u0421\u0443\u043C\u0414\u0443\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VisualStudio\\LR_17_Nesterenko\\LR_17_Nesterenko\\vhid.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{745A0C23-9AD4-4C9D-9A6D-F64F1F6CE90B}|LR_17_Nesterenko\\LR_17_Nesterenko.vcxproj|solutionrelative:LR_17_Nesterenko\\vhid.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vhid.txt",
+              "DocumentMoniker": "C:\\Users\\final\\Desktop\\\u0421\u0443\u043C\u0414\u0443\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VisualStudio\\LR_17_Nesterenko\\LR_17_Nesterenko\\vhid.txt",
+              "RelativeDocumentMoniker": "LR_17_Nesterenko\\vhid.txt",
+              "ToolTip": "C:\\Users\\final\\Desktop\\\u0421\u0443\u043C\u0414\u0443\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VisualStudio\\LR_17_Nesterenko\\LR_17_Nesterenko\\vhid.txt",
+              "RelativeToolTip": "LR_17_Nesterenko\\vhid.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-22T12:53:33.249Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "exit.txt",
+              "DocumentMoniker": "C:\\Users\\final\\Desktop\\\u0421\u0443\u043C\u0414\u0443\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VisualStudio\\LR_17_Nesterenko\\LR_17_Nesterenko\\exit.txt",
+              "RelativeDocumentMoniker": "LR_17_Nesterenko\\exit.txt",
+              "ToolTip": "C:\\Users\\final\\Desktop\\\u0421\u0443\u043C\u0414\u0443\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VisualStudio\\LR_17_Nesterenko\\LR_17_Nesterenko\\exit.txt",
+              "RelativeToolTip": "LR_17_Nesterenko\\exit.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-22T12:58:25.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LR_17_Nesterenko.cpp",
+              "DocumentMoniker": "C:\\Users\\final\\Desktop\\\u0421\u0443\u043C\u0414\u0443\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VisualStudio\\LR_17_Nesterenko\\LR_17_Nesterenko\\LR_17_Nesterenko.cpp",
+              "RelativeDocumentMoniker": "LR_17_Nesterenko\\LR_17_Nesterenko.cpp",
+              "ToolTip": "C:\\Users\\final\\Desktop\\\u0421\u0443\u043C\u0414\u0443\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\VisualStudio\\LR_17_Nesterenko\\LR_17_Nesterenko\\LR_17_Nesterenko.cpp",
+              "RelativeToolTip": "LR_17_Nesterenko\\LR_17_Nesterenko.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-21T18:46:36.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
