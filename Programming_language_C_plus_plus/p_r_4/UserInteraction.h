@@ -1,7 +1,7 @@
 ﻿#pragma once
 
-#include <string>             // ПАИПА?? string
-#include "GameField.h" // ??????????? ????????????? ????? GameField.h
+#include <string>      // для string
+#include "GameField.h" // підключення заголовочного файлу GameField.h
 
 // виведення вітання, правила гри та повернення вибору користувача (1 - Нова гра, 2 - Історія, 3 - Вихід)
 int showMainMenu();
