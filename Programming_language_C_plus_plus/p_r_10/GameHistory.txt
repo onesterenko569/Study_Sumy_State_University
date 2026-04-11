@@ -1,0 +1,747 @@
+
+
+=== POCHATOK NOVOYI GRY ===
+
+Chas pochatku hry: 11.04.2026 12:39:24
+Pochatkove pole (3x3):
+
+ -----------------
+|  8  |  7  |  6  |
+|-----------------|
+|  5  |  4  |  3  |
+|-----------------|
+|  2  |  1  |  _  |
+ -----------------
+
+Bulo vvedeno nekorektne znachennya
+
+Vvedeno fishku pid nomerom 4
+Khid nemozhlyvyy
+
+ -----------------
+|  8  |  7  |  6  |
+|-----------------|
+|  5  |  4  |  3  |
+|-----------------|
+|  2  |  1  |  _  |
+ -----------------
+
+Vvedeno fishku pid nomerom 3
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  7  |  6  |
+|-----------------|
+|  5  |  4  |  _  |
+|-----------------|
+|  2  |  1  |  3  |
+ -----------------
+
+Hru bulo zupyneno!
+Chas zupynky: 11.04.2026 12:39:37
+
+Hru bulo prodovzheno!
+Chas prodovzhennya hry: 11.04.2026 12:39:47
+
+Vvedeno fishku pid nomerom 6
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  7  |  _  |
+|-----------------|
+|  5  |  4  |  6  |
+|-----------------|
+|  2  |  1  |  3  |
+ -----------------
+
+Vvedeno fishku pid nomerom 7
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  _  |  7  |
+|-----------------|
+|  5  |  4  |  6  |
+|-----------------|
+|  2  |  1  |  3  |
+ -----------------
+
+Hru bulo zupyneno!
+Chas zupynky: 11.04.2026 12:39:56
+
+Hru zaversheno korystuvachem!
+
+Kilkist zroblenykh khodiv - 3
+Tryvalist hry: 21 sek.
+
+=== POCHATOK NOVOYI GRY ===
+
+Chas pochatku hry: 11.04.2026 12:52:53
+Pochatkove pole (3x3):
+
+ -----------------
+|  8  |  7  |  6  |
+|-----------------|
+|  5  |  4  |  3  |
+|-----------------|
+|  2  |  1  |  _  |
+ -----------------
+
+Vvedeno fishku pid nomerom 1
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  7  |  6  |
+|-----------------|
+|  5  |  4  |  3  |
+|-----------------|
+|  2  |  _  |  1  |
+ -----------------
+
+Vvedeno fishku pid nomerom 2
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  7  |  6  |
+|-----------------|
+|  5  |  4  |  3  |
+|-----------------|
+|  _  |  2  |  1  |
+ -----------------
+
+Vvedeno fishku pid nomerom 5
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  7  |  6  |
+|-----------------|
+|  _  |  4  |  3  |
+|-----------------|
+|  5  |  2  |  1  |
+ -----------------
+
+Vvedeno fishku pid nomerom 4
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  7  |  6  |
+|-----------------|
+|  4  |  _  |  3  |
+|-----------------|
+|  5  |  2  |  1  |
+ -----------------
+
+Vvedeno fishku pid nomerom 3
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  7  |  6  |
+|-----------------|
+|  4  |  3  |  _  |
+|-----------------|
+|  5  |  2  |  1  |
+ -----------------
+
+Vvedeno fishku pid nomerom 1
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  7  |  6  |
+|-----------------|
+|  4  |  3  |  1  |
+|-----------------|
+|  5  |  2  |  _  |
+ -----------------
+
+Vvedeno fishku pid nomerom 2
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  7  |  6  |
+|-----------------|
+|  4  |  3  |  1  |
+|-----------------|
+|  5  |  _  |  2  |
+ -----------------
+
+Vvedeno fishku pid nomerom 3
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  7  |  6  |
+|-----------------|
+|  4  |  _  |  1  |
+|-----------------|
+|  5  |  3  |  2  |
+ -----------------
+
+Vvedeno fishku pid nomerom 7
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  _  |  6  |
+|-----------------|
+|  4  |  7  |  1  |
+|-----------------|
+|  5  |  3  |  2  |
+ -----------------
+
+Vvedeno fishku pid nomerom 6
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  6  |  _  |
+|-----------------|
+|  4  |  7  |  1  |
+|-----------------|
+|  5  |  3  |  2  |
+ -----------------
+
+Vvedeno fishku pid nomerom 1
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  6  |  1  |
+|-----------------|
+|  4  |  7  |  _  |
+|-----------------|
+|  5  |  3  |  2  |
+ -----------------
+
+Vvedeno fishku pid nomerom 2
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  6  |  1  |
+|-----------------|
+|  4  |  7  |  2  |
+|-----------------|
+|  5  |  3  |  _  |
+ -----------------
+
+Vvedeno fishku pid nomerom 3
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  6  |  1  |
+|-----------------|
+|  4  |  7  |  2  |
+|-----------------|
+|  5  |  _  |  3  |
+ -----------------
+
+Vvedeno fishku pid nomerom 7
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  6  |  1  |
+|-----------------|
+|  4  |  _  |  2  |
+|-----------------|
+|  5  |  7  |  3  |
+ -----------------
+
+Vvedeno fishku pid nomerom 6
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  _  |  1  |
+|-----------------|
+|  4  |  6  |  2  |
+|-----------------|
+|  5  |  7  |  3  |
+ -----------------
+
+Vvedeno fishku pid nomerom 1
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  1  |  _  |
+|-----------------|
+|  4  |  6  |  2  |
+|-----------------|
+|  5  |  7  |  3  |
+ -----------------
+
+Vvedeno fishku pid nomerom 2
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  1  |  2  |
+|-----------------|
+|  4  |  6  |  _  |
+|-----------------|
+|  5  |  7  |  3  |
+ -----------------
+
+Vvedeno fishku pid nomerom 3
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  1  |  2  |
+|-----------------|
+|  4  |  6  |  3  |
+|-----------------|
+|  5  |  7  |  _  |
+ -----------------
+
+Vvedeno fishku pid nomerom 7
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  1  |  2  |
+|-----------------|
+|  4  |  6  |  3  |
+|-----------------|
+|  5  |  _  |  7  |
+ -----------------
+
+Vvedeno fishku pid nomerom 5
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  1  |  2  |
+|-----------------|
+|  4  |  6  |  3  |
+|-----------------|
+|  _  |  5  |  7  |
+ -----------------
+
+Vvedeno fishku pid nomerom 4
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  8  |  1  |  2  |
+|-----------------|
+|  _  |  6  |  3  |
+|-----------------|
+|  4  |  5  |  7  |
+ -----------------
+
+Vvedeno fishku pid nomerom 8
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  _  |  1  |  2  |
+|-----------------|
+|  8  |  6  |  3  |
+|-----------------|
+|  4  |  5  |  7  |
+ -----------------
+
+Vvedeno fishku pid nomerom 1
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  _  |  2  |
+|-----------------|
+|  8  |  6  |  3  |
+|-----------------|
+|  4  |  5  |  7  |
+ -----------------
+
+Bulo vvedeno nekorektne znachennya
+
+Vvedeno fishku pid nomerom 2
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  _  |
+|-----------------|
+|  8  |  6  |  3  |
+|-----------------|
+|  4  |  5  |  7  |
+ -----------------
+
+Vvedeno fishku pid nomerom 3
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  8  |  6  |  _  |
+|-----------------|
+|  4  |  5  |  7  |
+ -----------------
+
+Vvedeno fishku pid nomerom 7
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  8  |  6  |  7  |
+|-----------------|
+|  4  |  5  |  _  |
+ -----------------
+
+Vvedeno fishku pid nomerom 5
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  8  |  6  |  7  |
+|-----------------|
+|  4  |  _  |  5  |
+ -----------------
+
+Vvedeno fishku pid nomerom 4
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  8  |  6  |  7  |
+|-----------------|
+|  _  |  4  |  5  |
+ -----------------
+
+Vvedeno fishku pid nomerom 8
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  _  |  6  |  7  |
+|-----------------|
+|  8  |  4  |  5  |
+ -----------------
+
+Vvedeno fishku pid nomerom 6
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  6  |  _  |  7  |
+|-----------------|
+|  8  |  4  |  5  |
+ -----------------
+
+Vvedeno fishku pid nomerom 7
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  6  |  7  |  _  |
+|-----------------|
+|  8  |  4  |  5  |
+ -----------------
+
+Vvedeno fishku pid nomerom 7
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  6  |  _  |  7  |
+|-----------------|
+|  8  |  4  |  5  |
+ -----------------
+
+Vvedeno fishku pid nomerom 4
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  6  |  4  |  7  |
+|-----------------|
+|  8  |  _  |  5  |
+ -----------------
+
+Vvedeno fishku pid nomerom 5
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  6  |  4  |  7  |
+|-----------------|
+|  8  |  5  |  _  |
+ -----------------
+
+Vvedeno fishku pid nomerom 7
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  6  |  4  |  _  |
+|-----------------|
+|  8  |  5  |  7  |
+ -----------------
+
+Vvedeno fishku pid nomerom 4
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  6  |  _  |  4  |
+|-----------------|
+|  8  |  5  |  7  |
+ -----------------
+
+Vvedeno fishku pid nomerom 5
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  6  |  5  |  4  |
+|-----------------|
+|  8  |  _  |  7  |
+ -----------------
+
+Vvedeno fishku pid nomerom 7
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  6  |  5  |  4  |
+|-----------------|
+|  8  |  7  |  _  |
+ -----------------
+
+Vvedeno fishku pid nomerom 4
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  6  |  5  |  _  |
+|-----------------|
+|  8  |  7  |  4  |
+ -----------------
+
+Vvedeno fishku pid nomerom 5
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  6  |  _  |  5  |
+|-----------------|
+|  8  |  7  |  4  |
+ -----------------
+
+Vvedeno fishku pid nomerom 7
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  6  |  7  |  5  |
+|-----------------|
+|  8  |  _  |  4  |
+ -----------------
+
+Vvedeno fishku pid nomerom 4
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  6  |  7  |  5  |
+|-----------------|
+|  8  |  4  |  _  |
+ -----------------
+
+Vvedeno fishku pid nomerom 4
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  6  |  7  |  5  |
+|-----------------|
+|  8  |  _  |  4  |
+ -----------------
+
+Vvedeno fishku pid nomerom 8
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  6  |  7  |  5  |
+|-----------------|
+|  _  |  8  |  4  |
+ -----------------
+
+Vvedeno fishku pid nomerom 6
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  _  |  7  |  5  |
+|-----------------|
+|  6  |  8  |  4  |
+ -----------------
+
+Vvedeno fishku pid nomerom 7
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  7  |  _  |  5  |
+|-----------------|
+|  6  |  8  |  4  |
+ -----------------
+
+Vvedeno fishku pid nomerom 8
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  7  |  8  |  5  |
+|-----------------|
+|  6  |  _  |  4  |
+ -----------------
+
+Vvedeno fishku pid nomerom 4
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  7  |  8  |  5  |
+|-----------------|
+|  6  |  4  |  _  |
+ -----------------
+
+Vvedeno fishku pid nomerom 5
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  7  |  8  |  _  |
+|-----------------|
+|  6  |  4  |  5  |
+ -----------------
+
+Vvedeno fishku pid nomerom 8
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  7  |  _  |  8  |
+|-----------------|
+|  6  |  4  |  5  |
+ -----------------
+
+Vvedeno fishku pid nomerom 4
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  7  |  4  |  8  |
+|-----------------|
+|  6  |  _  |  5  |
+ -----------------
+
+Vvedeno fishku pid nomerom 6
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  7  |  4  |  8  |
+|-----------------|
+|  _  |  6  |  5  |
+ -----------------
+
+Vvedeno fishku pid nomerom 7
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  _  |  4  |  8  |
+|-----------------|
+|  7  |  6  |  5  |
+ -----------------
+
+Vvedeno fishku pid nomerom 4
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  4  |  _  |  8  |
+|-----------------|
+|  7  |  6  |  5  |
+ -----------------
+
+Vvedeno fishku pid nomerom 8
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  4  |  8  |  _  |
+|-----------------|
+|  7  |  6  |  5  |
+ -----------------
+
+Vvedeno fishku pid nomerom 5
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  4  |  8  |  5  |
+|-----------------|
+|  7  |  6  |  _  |
+ -----------------
+
+Vvedeno fishku pid nomerom 6
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  4  |  8  |  5  |
+|-----------------|
+|  7  |  _  |  6  |
+ -----------------
+
+Vvedeno fishku pid nomerom 8
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  4  |  _  |  5  |
+|-----------------|
+|  7  |  8  |  6  |
+ -----------------
+
+Vvedeno fishku pid nomerom 5
+Khid bulo uspishno vykonano!
+
+ -----------------
+|  1  |  2  |  3  |
+|-----------------|
+|  4  |  5  |  _  |
+|-----------------|
+|  7  |  8  |  6  |
+ -----------------
+
+Vvedeno fishku pid nomerom 6
+Khid bulo uspishno vykonano!
+
+Hru bulo vyhrano!
+
+Kilkist zroblenykh khodiv - 60
+Chas zavershennya hry: 11.04.2026 12:55:17
+Tryvalist hry: 2 khv. 23 sek.
