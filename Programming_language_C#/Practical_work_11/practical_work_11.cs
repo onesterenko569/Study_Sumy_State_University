@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Diagnostics;
 
 namespace practical_work_11
 {
@@ -112,32 +113,9 @@ namespace practical_work_11
             return false;
         }
 
-        public static Motorcycle operator +(Motorcycle a, Motorcycle b) // перевантаження оператора додавання
+        public static double operator +(Motorcycle a, Motorcycle b)     // перевантаження оператора додавання
         {
-            Motorcycle c = new Motorcycle();                            // створення нового об'єкта для результату
-            if (a.brand == b.brand)                                     // якщо бренди однакові
-            {
-                c.brand = a.brand;
-            }
-            else
-            {
-                c.brand = "NoName";
-            }
-
-            c.maxSpeed = a.maxSpeed + b.maxSpeed;                       // сумування максимальної швидкості
-
-            if (a.numberWheels > b.numberWheels)                        // якщо в першого кількість коліс більша
-            {
-                c.numberWheels = a.numberWheels;
-            }
-            else                                                        // якщо в другого кількість коліс більша
-            {
-                c.numberWheels = b.numberWheels;
-            }
-
-            c.price = a.price + b.price;                                // сумування цін на мотоцикли
-
-            return c;                                                   // повернення нового об'єкта
+            return a.price + b.price;                                   // сумування та повернення цін на мотоцикли
         }
     }
     internal class Program                                              // головний клас програми
@@ -148,7 +126,7 @@ namespace practical_work_11
             Console.WriteLine("  1 - створити та заповнити масив мотоциклів");
             Console.WriteLine("  2 - вивести всі мотоцикли на екран");
             Console.WriteLine("  3 - порівняти мотоцикли в циклі");
-            Console.WriteLine("  4 - демонстрація оператора '+' зовні циклу");
+            Console.WriteLine("  4 - обчислення суми цін двох мотоциклів");
             Console.WriteLine("  0 - вихід з програми");
             Console.Write("\nВаш вибір: ");
         }
@@ -254,29 +232,30 @@ namespace practical_work_11
 
                         break;
 
-                    case 4:                                             // пункт додавання мотоциклів
+                    case 4:                                             // пункт обчислення суми цін двох мотоциклів
                         // якщо масив мотоциклів пустий або мотоциклів менше ніж 2
                         if (motorcycles == null || motorcycles.Length < 2)
                         {
-                            Console.WriteLine("\nПомилка! Для додавання потрібно створити масив хоча б з 2 мотоциклів");
+                            Console.WriteLine("\nПомилка! Для обчислення суми потрібно створити масив хоча б з 2 мотоциклів");
                         }
                         else
                         {
                             // введення номера першого мотоцикла
-                            Console.Write("\nВведіть номер першого мотоцикла для додавання: ");
+                            Console.Write("\nВведіть номер першого мотоцикла: ");
                             int firstMoto = ob.inputInt(1, motorcycles.Length);
                             firstMoto -= 1;
 
                             // введення номера другого мотоцикла
-                            Console.Write("\nВведіть номер другого мотоцикла для додавання: ");
+                            Console.Write("\nВведіть номер другого мотоцикла: ");
                             int secondMoto = ob.inputInt(1, motorcycles.Length);
                             secondMoto -= 1;
 
-                            // створення нового об'єкта через перевантажений оператор додавання
-                            Motorcycle sumMoto = motorcycles[firstMoto] + motorcycles[secondMoto];
+                            // обчислення суми цін двох мотоциклів
+                            double sumPrice = motorcycles[firstMoto] + motorcycles[secondMoto];
 
-                            Console.WriteLine("\nРезультат додавання:");
-                            sumMoto.output();                           // виведення результату додавання
+                            // виведення результатів
+                            Console.WriteLine("\nРезультат обчислення суми:");
+                            Console.WriteLine("  Сума цін {0} та {1} мотоциклів: {2} грн", firstMoto + 1, secondMoto + 1, sumPrice);
                         }
 
                         break;
