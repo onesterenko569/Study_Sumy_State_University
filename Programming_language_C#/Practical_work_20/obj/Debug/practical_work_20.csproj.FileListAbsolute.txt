@@ -1,0 +1,11 @@
+C:\Users\final\Desktop\СумДу\4 семестр\Програмування під платформу. Net Framework\C#\practical_work_20\practical_work_20\bin\Debug\practical_work_20.exe.config
+C:\Users\final\Desktop\СумДу\4 семестр\Програмування під платформу. Net Framework\C#\practical_work_20\practical_work_20\bin\Debug\practical_work_20.exe
+C:\Users\final\Desktop\СумДу\4 семестр\Програмування під платформу. Net Framework\C#\practical_work_20\practical_work_20\bin\Debug\practical_work_20.pdb
+C:\Users\final\Desktop\СумДу\4 семестр\Програмування під платформу. Net Framework\C#\practical_work_20\practical_work_20\obj\Debug\practical_work_20.csproj.AssemblyReference.cache
+C:\Users\final\Desktop\СумДу\4 семестр\Програмування під платформу. Net Framework\C#\practical_work_20\practical_work_20\obj\Debug\practical_work_20.Form1.resources
+C:\Users\final\Desktop\СумДу\4 семестр\Програмування під платформу. Net Framework\C#\practical_work_20\practical_work_20\obj\Debug\practical_work_20.Properties.Resources.resources
+C:\Users\final\Desktop\СумДу\4 семестр\Програмування під платформу. Net Framework\C#\practical_work_20\practical_work_20\obj\Debug\practical_work_20.csproj.GenerateResource.cache
+C:\Users\final\Desktop\СумДу\4 семестр\Програмування під платформу. Net Framework\C#\practical_work_20\practical_work_20\obj\Debug\practical_work_20.csproj.CoreCompileInputs.cache
+C:\Users\final\Desktop\СумДу\4 семестр\Програмування під платформу. Net Framework\C#\practical_work_20\practical_work_20\obj\Debug\practical_work_20.exe
+C:\Users\final\Desktop\СумДу\4 семестр\Програмування під платформу. Net Framework\C#\practical_work_20\practical_work_20\obj\Debug\practical_work_20.pdb
+C:\Users\final\Desktop\СумДу\4 семестр\Програмування під платформу. Net Framework\C#\practical_work_20\practical_work_20\obj\Debug\practical_work_20.exe.config
