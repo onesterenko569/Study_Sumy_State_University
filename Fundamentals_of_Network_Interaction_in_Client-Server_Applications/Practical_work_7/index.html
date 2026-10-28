@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Біржа (WebSocket)</title>
+    <style>
+        /* базовий дизайн сторінки */
+        body { font-family: Arial, sans-serif; padding: 20px; max-width: 600px; }
+        .block { margin-bottom: 20px; padding: 15px; border: 1px solid #ccc; border-radius: 5px; }
+        input { margin: 5px 0; padding: 5px; width: 150px; }
+        button { padding: 5px 10px; cursor: pointer; }
+    </style>
+</head>
+<body>
+    <h1>Система торгівлі (Біржа)</h1>
+    
+    <!-- блок для відображення списку активів -->
+    <div class="block">
+        <h3>Список активів:</h3>
+        <ul id="assets-list"></ul>
+    </div>
+
+    <!-- блок для додавання нового активу -->
+    <div class="block">
+        <h3>Додати новий актив:</h3>
+        <input type="text" id="new-name" placeholder="Назва (напр., SOL)">
+        <input type="number" id="new-price" placeholder="Ціна">
+        <button onclick="addAsset()">Додати</button>
+    </div>
+
+    <!-- блок для зміни ціни існуючого активу -->
+    <div class="block">
+        <h3>Змінити ціну активу:</h3>
+        <input type="text" id="update-name" placeholder="Назва активу">
+        <input type="number" id="update-price" placeholder="Нова ціна">
+        <button onclick="updatePrice()">Оновити</button>
+    </div>
+
+    <script>
+        // підключаємося до сервера
+        const ws = new WebSocket("ws://localhost:8765");
+
+        // коли з'єднання успішно встановлено
+        ws.onopen = () => {
+            console.log("З'єднання з сервером встановлено!");
+            // запитуємо початковий список активів
+            ws.send(JSON.stringify({ action: "get_assets" }));
+        };
+
+        // коли отримуємо повідомлення від сервера
+        ws.onmessage = (event) => {
+            const response = JSON.parse(event.data); // перетворюємо текст у JS-об'єкт
+            
+            // якщо сервер надіслав оновлений список активів
+            if (response.event === "update") {
+                const list = document.getElementById("assets-list");
+                list.innerHTML = ""; // очищаємо старий список на сторінці
+                
+                // проходимося по всіх активах і додаємо їх у список
+                for (const [name, price] of Object.entries(response.assets)) {
+                    const li = document.createElement("li"); // створюємо новий елемент списку
+                    li.textContent = `${name}: ${price}$`;   // записуємо туди текст
+                    list.appendChild(li);                    // додаємо елемент на сторінку
+                }
+            }
+        };
+
+        // коли з'єднання закривається
+        ws.onclose = () => {
+            console.log("З'єднання закрито.");
+        };
+
+        // функція для додавання нового активу
+        function addAsset() {
+            const name = document.getElementById("new-name").value;   // беремо назву з поля вводу
+            const price = document.getElementById("new-price").value; // беремо ціну з поля вводу
+            
+            if (name && price) { // якщо обидва поля не порожні
+                // формуємо об'єкт повідомлення
+                const message = {
+                    action: "add_asset",
+                    name: name,
+                    price: price
+                };
+                ws.send(JSON.stringify(message)); // запаковуємо в JSON і відправляємо на сервер
+            }
+        }
+
+        // функція для оновлення ціни
+        function updatePrice() {
+            const name = document.getElementById("update-name").value;   // беремо назву
+            const price = document.getElementById("update-price").value; // беремо нову ціну
+            
+            if (name && price) { // якщо поля не порожні
+                // формуємо об'єкт повідомлення
+                const message = {
+                    action: "update_price",
+                    name: name,
+                    price: price
+                };
+                ws.send(JSON.stringify(message)); // запаковуємо в JSON і відправляємо на сервер
+            }
+        }
+    </script>
+</body>
+</html>
