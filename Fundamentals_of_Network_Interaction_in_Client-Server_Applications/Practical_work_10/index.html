@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Перегляд кошика інтернет-магазину</title>
+    <style>
+        body {
+            font-family: "Times New Roman", Times, serif;
+            margin: 20px;
+            color: #000;
+        }
+        h1 {
+            font-size: 2em;
+            margin-bottom: 20px;
+        }
+        .controls {
+            margin-bottom: 15px;
+        }
+        .controls input[type="number"] {
+            width: 50px;
+        }
+        .controls select {
+            margin-top: 10px;
+            display: block;
+        }
+        #messageArea {
+            margin-top: 15px;
+            font-style: italic;
+        }
+        
+        #cartSection {
+            display: none;
+            margin-top: 20px;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            max-width: 600px;
+            margin-bottom: 15px;
+        }
+        th, td {
+            border: 1px solid #000;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .total-sum {
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Перегляд кошика інтернет-магазину</h1>
+
+    <div class="controls">
+        <label for="cartId">Ідентифікатор кошика:</label>
+        <input type="number" id="cartId" value="1" min="1">
+        <button id="loadBtn">Завантажити кошик</button>
+        
+        <select id="testMode">
+            <option value="normal">Звичайний запит (із затримкою 3 сек)</option>
+            <option value="simError">Тест: Штучна помилка на 1-й спробі</option>
+            <option value="404">Тест: Помилка 404 (Not Found)</option>
+            <option value="503">Тест: Помилка 503 (Service Unavailable)</option>
+        </select>
+    </div>
+
+    <div id="messageArea">Введіть ідентифікатор і натисніть «Завантажити кошик».</div>
+
+    <div id="cartSection">
+        <h3 id="cartHeader"></h3>
+        <table id="cartTable">
+            <thead>
+                <tr>
+                    <th>Назва товару</th>
+                    <th>Ціна ($)</th>
+                    <th>Кількість</th>
+                    <th>Вартість ($)</th>
+                </tr>
+            </thead>
+            <tbody id="cartBody">
+            </tbody>
+        </table>
+        <div class="total-sum" id="cartTotal"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
